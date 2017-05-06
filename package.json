@@ -1,0 +1,29 @@
+{
+  "name": "explore-the-world",
+  "version": "1.0.0",
+  "description": "This SPA is your chance to explore the countries of the world. Need a knowledge boost, explore and enjoy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Gargoyle/Explore-The-World.git"
+  },
+  "author": "Team Gargoyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-Gargoyle/Explore-The-World/issues"
+  },
+  "homepage": "https://github.com/Team-Gargoyle/Explore-The-World#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "handlebars": "^4.0.6",
+    "jquery": "^3.2.1",
+    "jquery-ui-dist": "^1.12.1",
+    "navigo": "^4.6.2",
+    "systemjs": "^0.20.12",
+    "systemjs-plugin-babel": "0.0.21",
+    "toastr": "^2.1.2"
+  }
+}
